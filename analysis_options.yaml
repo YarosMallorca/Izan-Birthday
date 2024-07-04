@@ -1,0 +1,4 @@
+analyzer:
+  errors:
+    avoid_web_libraries_in_flutter: ignore
+include: package:flutter_lints/flutter.yaml

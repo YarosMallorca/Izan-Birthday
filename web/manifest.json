@@ -1,0 +1,8 @@
+{
+    "name": "Isan",
+    "short_name": "Isan",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
